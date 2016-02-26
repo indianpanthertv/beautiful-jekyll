@@ -4,6 +4,7 @@ published: true
 
 ---
 published:true
+layout:post
 author:Radha Krishna
 title:Indian Panther is Here
 subtitle:The Democratic Media
