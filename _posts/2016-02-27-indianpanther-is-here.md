@@ -3,7 +3,6 @@ published: true
 layout: post
 title: Indian Panther is Here
 subtitle: The Democratic Media
-fb-img: http://indianpanther.com/read/img/utubeedit.png
 ---
 
 
