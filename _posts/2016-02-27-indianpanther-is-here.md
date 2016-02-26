@@ -1,9 +1,19 @@
 ---
-published: false
+published: true
 ---
 
+---
+published:true
+author:Radha Krishna
+title:Indian Panther is Here
+subtitle:The Democratic Media
+fb-img:"http://indianpanther.com/read/img/utubeedit.png"
+
+---
+
+
 ## Indian Panther is Here
-![test]({{site.baseurl}}/img/indianpanther.png)
+
 
 Democracy is a beautiful piece of ideology. That has taken birth in the brains which were fighting with dictatorship. The Oppression and the ruthless rules of the kings of those days must have made those greek philosophers think about a "More" correct way of governance. Governance now in Democracy lies in the hands of people. People of those land decide and destroy the rules. People of those land kill and protect people. As the famous quote goes Democracy is a government Of the people, By the people and For the people
 
