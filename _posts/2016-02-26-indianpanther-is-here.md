@@ -1,13 +1,16 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Indian Panther is Here
+subtitle: The Democratic Media
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?  
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.  
+## Indian Panther is Here
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.  
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Democracy is a beautiful piece of ideology. That has taken birth in the brains which were fighting with dictatorship. The Oppression and the ruthless rules of the kings of those days must have made those greek philosophers think about a "More" correct way of governance. Governance now in Democracy lies in the hands of people. People of those land decide and destroy the rules. People of those land kill and protect people. As the famous quote goes Democracy is a government Of the people, By the people and For the people
+
+Now in the Greatest democracy ever imaginable , There are lot of people who are taking advantage of the cultural resistance to technology. ![Indian People](https://www.liverpool.ac.uk/media/research/india-fellowship-brochure-image.jpg)
+
+The Media sphere in India and the rest of earth has mostly been revolving around some huge News Papers and TV Channels. That is where Indian Panther makes a difference. We are just like Lincoln, we want to be PUBLIC. We are Public!. In this age of paid media and inclusive debates we bring you an exciting era for freedom of speech and recognition. We show what must be shown. We tell what must be spread. With Indian Panther online now, you can literally reach every others of our community and share your opinion, news, argument, expression or whatever! If it makes a difference to the community, that's in. That's what we are for. Indian Panther, the Democractic Media is ONLINE NOW :)
+
