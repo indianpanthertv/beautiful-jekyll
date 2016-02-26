@@ -1,5 +1,4 @@
 ---
-published: true
 layout: post
 title: Indian Panther is Here
 subtitle: The Democratic Media
