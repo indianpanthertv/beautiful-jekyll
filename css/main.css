@@ -7,7 +7,7 @@ body {
   font-size: 18px;
   color: #404040;
   position: relative;
-  background: #3498db;
+  background: #95a5a6;
 }
 p {
   line-height: 1.5;
@@ -89,7 +89,7 @@ img::-moz-selection {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #2ecc71;
+  background: #e74c3c;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
