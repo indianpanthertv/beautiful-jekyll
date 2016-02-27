@@ -5,9 +5,10 @@ subtitle: This is about Nationality and 1.2 billion indians
 fb-img: https://indianpanthertv.files.wordpress.com/2016/02/bharat-mata-small.png
 ---
 
-> Bharat ke tukde honge hazaar  
+<blockquote style="color:black;background-color:#95a5a6">Bharat ke tukde honge hazaar  
 Bharat ki barbadi tak jung zaari rahegi  
 Allahu Akbar  
+</blockquote>
 
 That’s what you have to know about what is happening in JNU. That’s what is being shouted by a group of students who gathered , some with the masks on their faces to hide their identity. Because most of them do not believe in the things they are shouting (or) they are not true Indians. After all , how can an Indian shout for his own destruction? Well, they donot have the permission to that in their own campus. The Jawaharlal Nehru University was established on a preamble to nurture the talent not to destroy the India.
 
@@ -20,7 +21,7 @@ This question is not to all the devotional muslims and true Indians here. They a
 My dear students, have you never sung the melodious National anthem of India?
 You must have done it. If you didnot , then you can go just keep your mouth shut. Because we are not going to listen to people who are not Indians about the decisions which our Indians courts took. And if you did sing the Jana gana mana, then what does it say?
 
-<blockquote>Jaana Gaana Maana Adhinayaka Jayehe<br/>
+<blockquote style="color:black;background-color:#95a5a6">Jaana Gaana Maana Adhinayaka Jayehe<br/>
 Bharata bhagya vidhata;<br/>  
 Punjaba Sindhu Gujarata Maratha,<br/>  
 Dravida Utkala Banga,<br/>  
@@ -36,7 +37,7 @@ Jaya jaya jaya, jaya he!<br/>
 And Just so You know!</blockquote>
 They mean this -_-  
 
-<blockquote> Thou art the ruler of the minds of all people,<br/>  
+<blockquote style="color:black;background-color:#95a5a6"> Thou art the ruler of the minds of all people,<br/>  
 Dispenser of India’s destiny.<br/>  
 Thy name rouses the hearts of the Punjab,<br/>  
 Sind, Gujarat, and Maratha,<br/>  
@@ -60,7 +61,7 @@ That song has all of us. That pledge has the blessings of all the gods along wit
 
 And by the way for a second do not even think that you can divide us Hindus and Muslims with your sickening , foul slogans. Our brothers know what Allah supports. Your slogans just have been said by may be a hundred students. But these words below have been said by a billion people, please learn the song if you like it and sing if you can.
 
- <iframe width="420" height="315" src="https://www.youtube.com/embed/k4ODTGGSQlQ" frameborder="0" allowfullscreen></iframe>
+ <iframe width="650" height="368" src="https://www.youtube.com/embed/k4ODTGGSQlQ" frameborder="0" allowfullscreen></iframe>
  
 
 Saare jahan se acha, HINDUSTAN hamara.
