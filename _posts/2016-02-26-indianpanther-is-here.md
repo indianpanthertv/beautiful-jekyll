@@ -5,10 +5,10 @@ subtitle: The Democratic Media
 ---
 
 
-## Indian Panther is Here
+## Indian Panther stands out to be the Democratic Media
 
 
-Democracy is a beautiful piece of ideology. That has taken birth in the brains which were fighting with dictatorship. The Oppression and the ruthless rules of the kings of those days must have made those greek philosophers think about a "More" correct way of governance. Governance now in Democracy lies in the hands of people. People of those land decide and destroy the rules. People of those land kill and protect people. As the famous quote goes Democracy is a government Of the people, By the people and For the people
+Democracy is a beautiful piece of ideology ,that has taken birth in the brains which were fighting with dictatorship. The Oppression and the ruthless rules of the kings of those days must have made those greek philosophers think about a "More" correct way of governance. Governance now in Democracy lies in the hands of people. People of those land decide and destroy the rules. People of those land kill and protect people. As the famous quote goes Democracy is a government Of the people, By the people and For the people
 
 Now in the Greatest democracy ever imaginable , There are lot of people who are taking advantage of the cultural resistance to technology. ![Indian People](https://www.liverpool.ac.uk/media/research/india-fellowship-brochure-image.jpg)
 

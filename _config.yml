@@ -27,7 +27,7 @@ avatar: "/img/utubeedit.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "http://indianpanther.com"
+  Home: "http://indianpanther.com/read"
   Report/Express: "https://rkavuluru.typeform.com/to/dzAO0v"
   Contact Us: "https://rkavuluru.typeform.com/to/NMQyI5"
   
@@ -70,7 +70,7 @@ google_analytics: "UA-59820529-1"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "India/Delhi"
+timezone: "Asia/Kolkata"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
