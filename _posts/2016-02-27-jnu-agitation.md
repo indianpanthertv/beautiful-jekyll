@@ -5,9 +5,10 @@ subtitle: This is about Nationality and 1.2 billion indians
 fb-img: https://indianpanthertv.files.wordpress.com/2016/02/bharat-mata-small.png
 ---
 
-Bharat ke tukde honge hazaar
-Bharat ki barbadi tak jung zaari rahegi
-Allahu Akbar
+>Bharat ke tukde honge hazaar  
+Bharat ki barbadi tak jung zaari rahegi  
+Allahu Akbar  
+
 That’s what you have to know about what is happening in JNU. That’s what is being shouted by a group of students who gathered , some with the masks on their faces to hide their identity. Because most of them do not believe in the things they are shouting (or) they are not true Indians. After all , how can an Indian shout for his own destruction? Well, they donot have the permission to that in their own campus. The Jawaharlal Nehru University was established on a preamble to nurture the talent not to destroy the India.
 
 Bharat ki Barbadi and Allahu Akbar are the two words which can raise serious concerns about their deep intentions. Necessarily The Republic of India grants religious freedom to every living being living on its land boundaries unlike some of the Neighbouring countries, but why would you want a god to live for ever and the Barbadi of a billion Indians?
@@ -19,37 +20,37 @@ This question is not to all the devotional muslims and true Indians here. They a
 My dear students, have you never sung the melodious National anthem of India?
 You must have done it. If you didnot , then you can go just keep your mouth shut. Because we are not going to listen to people who are not Indians about the decisions which our Indians courts took. And if you did sing the Jana gana mana, then what does it say?
 
-Jaana Gaana Maana Adhinayaka Jayehe
-Bharata bhagya vidhata;
-Punjaba Sindhu Gujarata Maratha,
-Dravida Utkala Banga,
-Vindhya, Himachala, Jamuna, Ganga,
-Ucchhala Jaladhitaranga;
-Taba Shubha Naame Jaage
-Taba Shubha Ashish Maage
-Gaye taba jaya gaatha.
-Jana gana mangala dayaka jaya he
-Bharata bhagya vidhata.
-Jaya he, jaya he, jaya he,
-Jaya jaya jaya, jaya he!
-And Just so You know! They mean this -_-
+>Jaana Gaana Maana Adhinayaka Jayehe  
+Bharata bhagya vidhata;  
+Punjaba Sindhu Gujarata Maratha,  
+Dravida Utkala Banga,  
+Vindhya, Himachala, Jamuna, Ganga,    
+Ucchhala Jaladhitaranga;  
+Taba Shubha Naame Jaage  
+Taba Shubha Ashish Maage  
+Gaye taba jaya gaatha.  
+Jana gana mangala dayaka jaya he  
+Bharata bhagya vidhata.  
+Jaya he, jaya he, jaya he,  
+Jaya jaya jaya, jaya he!  
+And Just so You know! They mean this -_-  
 
-Thou art the ruler of the minds of all people,
-Dispenser of India’s destiny.
-Thy name rouses the hearts of the Punjab,
-Sind, Gujarat, and Maratha,
-Of the Dravid, and Orissa and Bengal.
-It echoes in the hills of Vindhyas and,
-Himalayas, mingles in the music of the
-Jamuna and the Ganges and is chanted by
-the waves of the Indian sea.
-The pray for the blessings,
-and sing by the praise,
-The saving of all people
-waits in thy hand.
-Thou dispenser of India’s destiny,
-Victory, victory, victory to thee.
-Victory Victory Victory to thee. To India , To Bharat Mata, To the Billion people living here.
+>Thou art the ruler of the minds of all people,  
+Dispenser of India’s destiny.  
+Thy name rouses the hearts of the Punjab,  
+Sind, Gujarat, and Maratha,  
+Of the Dravid, and Orissa and Bengal.  
+It echoes in the hills of Vindhyas and,  
+Himalayas, mingles in the music of the  
+Jamuna and the Ganges and is chanted by  
+the waves of the Indian sea.  
+The pray for the blessings,  
+and sing by the praise,  
+The saving of all people  
+waits in thy hand.  
+Thou dispenser of India’s destiny,  
+Victory, victory, victory to thee.  
+Victory Victory Victory to thee. To India , To Bharat Mata, To the Billion people living here.  
 
 JAYA HE. Jai HIND.
 
