@@ -20,7 +20,7 @@ This question is not to all the devotional muslims and true Indians here. They a
 My dear students, have you never sung the melodious National anthem of India?
 You must have done it. If you didnot , then you can go just keep your mouth shut. Because we are not going to listen to people who are not Indians about the decisions which our Indians courts took. And if you did sing the Jana gana mana, then what does it say?
 
-> Jaana Gaana Maana Adhinayaka Jayehe  
+<blockquote>Jaana Gaana Maana Adhinayaka Jayehe  
 Bharata bhagya vidhata;  
 Punjaba Sindhu Gujarata Maratha,  
 Dravida Utkala Banga,  
@@ -33,9 +33,10 @@ Jana gana mangala dayaka jaya he
 Bharata bhagya vidhata.  
 Jaya he, jaya he, jaya he,  
 Jaya jaya jaya, jaya he!  
-And Just so You know! They mean this -_-  
+And Just so You know!</blockquote>
+They mean this -_-  
 
-> Thou art the ruler of the minds of all people,  
+<blockquote> Thou art the ruler of the minds of all people,  
 Dispenser of India’s destiny.  
 Thy name rouses the hearts of the Punjab,  
 Sind, Gujarat, and Maratha,  
@@ -50,7 +51,8 @@ The saving of all people
 waits in thy hand.  
 Thou dispenser of India’s destiny,  
 Victory, victory, victory to thee.  
-Victory Victory Victory to thee. To India , To Bharat Mata, To the Billion people living here.  
+Victory Victory Victory to thee. </blockquote>
+To India , To Bharat Mata, To the Billion people living here.  
 
 JAYA HE. Jai HIND.
 
