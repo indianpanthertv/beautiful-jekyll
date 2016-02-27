@@ -4,6 +4,7 @@ title: JNU agitation , the one thing you have to know
 subtitle: This is about Nationality and 1.2 billion indians
 description: This is about Nationality and 1.2 billion indians
 fb-img: https://indianpanthertv.files.wordpress.com/2016/02/bharat-mata-small.png
+fb-description: This is about Nationality and 1.2 billion indians
 ---
 
 <blockquote class="blocky">Bharat ke tukde honge hazaar <br/> 
