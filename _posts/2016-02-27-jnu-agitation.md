@@ -5,9 +5,9 @@ subtitle: This is about Nationality and 1.2 billion indians
 fb-img: https://indianpanthertv.files.wordpress.com/2016/02/bharat-mata-small.png
 ---
 
-<blockquote style="color:black;background-color:#95a5a6">Bharat ke tukde honge hazaar  
-Bharat ki barbadi tak jung zaari rahegi  
-Allahu Akbar  
+<blockquote style="color:black;background-color:#95a5a6">Bharat ke tukde honge hazaar <br/> 
+Bharat ki barbadi tak jung zaari rahegi  <br/> 
+Allahu Akbar  <br/> 
 </blockquote>
 
 That’s what you have to know about what is happening in JNU. That’s what is being shouted by a group of students who gathered , some with the masks on their faces to hide their identity. Because most of them do not believe in the things they are shouting (or) they are not true Indians. After all , how can an Indian shout for his own destruction? Well, they donot have the permission to that in their own campus. The Jawaharlal Nehru University was established on a preamble to nurture the talent not to destroy the India.
