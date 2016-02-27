@@ -415,3 +415,8 @@ table tr th :last-child,
 table tr td :last-child {
   margin-bottom: 0;
 }
+.blocky :
+{
+    color:black;
+    background-color:#95a5a6;
+}

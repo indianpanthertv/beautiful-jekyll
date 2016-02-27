@@ -2,10 +2,11 @@
 layout: post
 title: JNU agitation , the one thing you have to know
 subtitle: This is about Nationality and 1.2 billion indians
+description:This is about Nationality and 1.2 billion indians
 fb-img: https://indianpanthertv.files.wordpress.com/2016/02/bharat-mata-small.png
 ---
 
-<blockquote style="color:black;background-color:#95a5a6">Bharat ke tukde honge hazaar <br/> 
+<blockquote class="blocky">Bharat ke tukde honge hazaar <br/> 
 Bharat ki barbadi tak jung zaari rahegi  <br/> 
 Allahu Akbar  <br/> 
 </blockquote>
@@ -21,7 +22,7 @@ This question is not to all the devotional muslims and true Indians here. They a
 My dear students, have you never sung the melodious National anthem of India?
 You must have done it. If you didnot , then you can go just keep your mouth shut. Because we are not going to listen to people who are not Indians about the decisions which our Indians courts took. And if you did sing the Jana gana mana, then what does it say?
 
-<blockquote style="color:black;background-color:#95a5a6">Jaana Gaana Maana Adhinayaka Jayehe<br/>
+<blockquote class="blocky">Jaana Gaana Maana Adhinayaka Jayehe<br/>
 Bharata bhagya vidhata;<br/>  
 Punjaba Sindhu Gujarata Maratha,<br/>  
 Dravida Utkala Banga,<br/>  
@@ -37,7 +38,7 @@ Jaya jaya jaya, jaya he!<br/>
 And Just so You know!</blockquote>
 They mean this -_-  
 
-<blockquote style="color:black;background-color:#95a5a6"> Thou art the ruler of the minds of all people,<br/>  
+<blockquote class="blocky"> Thou art the ruler of the minds of all people,<br/>  
 Dispenser of India’s destiny.<br/>  
 Thy name rouses the hearts of the Punjab,<br/>  
 Sind, Gujarat, and Maratha,<br/>  
