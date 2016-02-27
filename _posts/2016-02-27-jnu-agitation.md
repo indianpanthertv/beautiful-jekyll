@@ -20,37 +20,37 @@ This question is not to all the devotional muslims and true Indians here. They a
 My dear students, have you never sung the melodious National anthem of India?
 You must have done it. If you didnot , then you can go just keep your mouth shut. Because we are not going to listen to people who are not Indians about the decisions which our Indians courts took. And if you did sing the Jana gana mana, then what does it say?
 
-<blockquote>Jaana Gaana Maana Adhinayaka Jayehe  
-Bharata bhagya vidhata;  
-Punjaba Sindhu Gujarata Maratha,  
-Dravida Utkala Banga,  
-Vindhya, Himachala, Jamuna, Ganga,    
-Ucchhala Jaladhitaranga;  
-Taba Shubha Naame Jaage  
-Taba Shubha Ashish Maage  
-Gaye taba jaya gaatha.  
-Jana gana mangala dayaka jaya he  
-Bharata bhagya vidhata.  
-Jaya he, jaya he, jaya he,  
-Jaya jaya jaya, jaya he!  
+<blockquote>Jaana Gaana Maana Adhinayaka Jayehe<br/>
+Bharata bhagya vidhata;<br/>  
+Punjaba Sindhu Gujarata Maratha,<br/>  
+Dravida Utkala Banga,<br/>  
+Vindhya, Himachala, Jamuna, Ganga,<br/>    
+Ucchhala Jaladhitaranga;<br/>  
+Taba Shubha Naame Jaage<br/>  
+Taba Shubha Ashish Maage<br/>  
+Gaye taba jaya gaatha.<br/>  
+Jana gana mangala dayaka jaya he<br/>  
+Bharata bhagya vidhata.<br/>  
+Jaya he, jaya he, jaya he,<br/>  
+Jaya jaya jaya, jaya he!<br/>  
 And Just so You know!</blockquote>
 They mean this -_-  
 
-<blockquote> Thou art the ruler of the minds of all people,  
-Dispenser of India’s destiny.  
-Thy name rouses the hearts of the Punjab,  
-Sind, Gujarat, and Maratha,  
-Of the Dravid, and Orissa and Bengal.  
-It echoes in the hills of Vindhyas and,  
-Himalayas, mingles in the music of the  
-Jamuna and the Ganges and is chanted by  
-the waves of the Indian sea.  
-The pray for the blessings,  
-and sing by the praise,  
-The saving of all people  
-waits in thy hand.  
-Thou dispenser of India’s destiny,  
-Victory, victory, victory to thee.  
+<blockquote> Thou art the ruler of the minds of all people,<br/>  
+Dispenser of India’s destiny.<br/>  
+Thy name rouses the hearts of the Punjab,<br/>  
+Sind, Gujarat, and Maratha,<br/>  
+Of the Dravid, and Orissa and Bengal.<br/>  
+It echoes in the hills of Vindhyas and,<br/>  
+Himalayas, mingles in the music of the<br/>  
+Jamuna and the Ganges and is chanted by<br/>  
+the waves of the Indian sea.<br/>  
+The pray for the blessings,<br/>  
+and sing by the praise,<br/>  
+The saving of all people<br/>  
+waits in thy hand.<br/>  
+Thou dispenser of India’s destiny,<br/>  
+Victory, victory, victory to thee.<br/>  
 Victory Victory Victory to thee. </blockquote>
 To India , To Bharat Mata, To the Billion people living here.  
 
