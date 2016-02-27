@@ -21,9 +21,9 @@ I am going to mention 2 of the ISRO spin offs which i found very interesting.
 
 ..*Search and Rescue Beacon is an affordable and technically advanced electronic device that helps to rescue people in distress through satellite communication. The beacon transmits encoded digital message that contains information about the beacon, such as its unique identification number, country where the beacon is registered etc. along with current location of the beacon. The beacon gets location information from Global Positioning System (GPS). Various search and rescue satellites under COSPAS-SARSAT network receive the transmitted signals. The messages are processed and retransmitted to different ground stations. These dedicated ground stations receive the message and alert the rescue centres nearest to the spot of accident. The rescue centre in turn initiates the rescue operations. The beacon can be used in sea, on difficult terrains on the land and in air by various groups of people.  
 Many other spin offs from ISRO can be found at the following link.  
-![Space Spin Offs From ISRO](http://www.isro.gov.in/isro-technology-transfer/space-spin-offs-isro)
+[Space Spin Offs From ISRO](http://www.isro.gov.in/isro-technology-transfer/space-spin-offs-isro)
 And not only this, see what America got with NASA here..  
-![NASA spin-off technologies](https://en.wikipedia.org/wiki/NASA_spin-off_technologies)
+[NASA spin-off technologies](https://en.wikipedia.org/wiki/NASA_spin-off_technologies)
 Now, you would miss most of those advanced technology if it were not for ISRO’s  Advanced space research.  
 
 2) Now normal Remote sensing satellites have a lot of Direct uses on an average Indian citizen. Atmospheric data can help us avoid or predict natural disasters and guide us in taking precautionary measures. Remote sensing satellites on the other hand give us valuable inputs in Farming, Urban planning, Administration, Military, Strategic, Tactical procedures, Security, Emergency , Entertainment, Education , Medical purposes. 
