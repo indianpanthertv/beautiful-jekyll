@@ -3,7 +3,7 @@ layout: post
 title: Is ISRO required when millions of people starve to death?
 subtitle: What should we choose? Technology or Poverty?
 description: What should we choose? Technology or Poverty?
-fb-img: https://indianpanthertv.files.wordpress.com/2016/02/isro-space-shuttle.png?w=1000&h=526&crop=1
+fb-img: https://indianpanthertv.files.wordpress.com/2016/02/isro-space-shuttle.png
 ---
 
 
