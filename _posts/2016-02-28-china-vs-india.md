@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What can India, if chinese aggression shows up?
+title: What can India do, if chinese aggression shows up?
 subtitle: A Personal simulation into a strategic and tactical world
 description: In real life there are multiple strategies in the books of generals of both the Indian Tri forces and PLA of China. But here i will describe a platform necessary to win a war with the China.
 fb-img: https://indianpanthertv.files.wordpress.com/2016/02/shutterstock_119878888.jpg
